@@ -1,2 +1,3 @@
-test
-zuLuL
+1. Ich kaufe
+2. Brot
+3. Ich zahle

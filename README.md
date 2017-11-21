@@ -1,10 +1,8 @@
-# Einkaufsliste
+#### Persönliche Daten
 
-## Persönliche Daten
-
-> **Name:** Marius Stuber  
-> **Alter:** Jung  
-> **Wohnort:** Überall  
-> **Studiengang:** AIN3SE
+> **Name:** Santa  
+> **Alter:** Ich war schon immer da  
+> **Wohnort:** Nordpol  
+> **Beruf:** Bringt den braven Bübchen die Geschenke
 
 ![Ich](ressources/Santa.jpg "Ich")

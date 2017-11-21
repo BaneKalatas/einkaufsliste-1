@@ -2,6 +2,8 @@
 
 ## Persönliche Daten
 
-> **Name:**    Marius Stuber
-> **Alter:**   Jung
+> **Name:** Marius Stuber
+
+> **Alter:** Jung
+
 > **Wohnort:** Überall

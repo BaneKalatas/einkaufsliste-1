@@ -4,4 +4,5 @@
 
 > **Name:** Marius Stuber  
 > **Alter:** Jung  
-> **Wohnort:** Überall
+> **Wohnort:** Überall  
+> **Studiengang:** AIN3SE
